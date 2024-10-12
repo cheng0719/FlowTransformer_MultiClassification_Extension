@@ -13,8 +13,8 @@ Before diving in, please check out the [original project](https://github.com/lia
 - **Link to Paper** : [FlowTransformer Paper](https://www.sciencedirect.com/science/article/pii/S095741742303066X)
 
 ## Use
-- **For binary classification** : 
-- **For multi-classification** : 
+- **For binary classification** : `binary_classification_demo.ipynb`
+- **For multi-classification** : `multi_classification_demo.ipynb`
 
 ## Directory Hierarchy
 The list below highlights the modifications made compared to the original project :
@@ -51,3 +51,5 @@ The list below highlights the modifications made compared to the original projec
 |—— .gitignore
 ```
 
+## License
+This project is based on [FlowTransformer](https://github.com/liamdm/FlowTransformer) and licensed under the AGPL-3.0 License.
